@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hajedkh
-- 👀 I’m interested in Software development, DevOps and Cloud Technologies.
-- 🌱 I’m currently learning Cloud technologies.
+- 👀 I’m an IT Solution architect.
+- 🌱 I’m currently learning Hybrid Cloud technologies.
 - 💞️ I’m looking to collaborate on anything that makes life easier.
 - 📫 How to reach me ? -> Kh.hajed@gmail.com
 
