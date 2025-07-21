@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hajedkh
-- 👀 I’m an IT / Cloud Solution architect @Proximus.
-- 🌱 I’m currently learning GDC : Google Distributed Cloud 
+- 👀 I’m an IT / Cloud Solution architect.
+- 🌱 I’m currently learning AI/LLMs and MLOps.
 - 💞️ I’m open to collaborate on anything that makes life easier.
 - 📫 How to reach me ? -> Kh.hajed@gmail.com
 
