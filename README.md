@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hajedkh
-- 👀 I’m an DevOps / Cloud Solution architect.
+- 👀 I’m a DevOps / Cloud Solution architect.
 - 🌱 I’m currently learning AI/LLMs and MLOps.
 - 💞️ I’m open to collaborate on anything that makes life easier.
 - 📫 How to reach me ? -> Kh.hajed@gmail.com
